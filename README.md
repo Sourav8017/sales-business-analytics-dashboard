@@ -51,6 +51,8 @@ This project analyzes retail sales data to uncover business insights related to 
 
 * Excel Dashboard (.xlsx)
 * Power BI Dashboard (.pbix)
+* Dataset (.csv)
+
 
 ---
 
