@@ -13,6 +13,11 @@ This project analyzes retail sales data to uncover business insights related to 
 
 ---
 
+## 📷 Dashboard Preview
+![Excel Dashboard](excel-dashboard.png)
+![Power Bi Dashboard](power-bi-dashboard.png)
+
+
 ## 📊 Key Features
 
 * Monthly Sales Trend Analysis
